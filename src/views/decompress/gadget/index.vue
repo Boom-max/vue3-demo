@@ -9,7 +9,7 @@
             class="clicker"
             src="@image/decompress/gadget/woodfish.jpeg"
             alt=""
-          />
+          /> 
         </div>
       </div>
     </section>

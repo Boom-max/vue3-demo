@@ -10,7 +10,7 @@
  
 <script setup lang="ts">
 import { ref } from 'vue'
-import StatusBar from './status-bar/index.vue'
+import StatusBar from './status-bar/index.vue' 
 </script>
 
 <style lang="less" scoped>

@@ -9,11 +9,11 @@
             class="clicker"
             src="@image/decompress/gadget/woodfish.jpeg"
             alt=""
-          /> 
+          />
         </div>
       </div>
     </section>
-  </div> 
+  </div>
 </template>
 
 <script setup lang="ts">
@@ -79,8 +79,9 @@ const insertText = () => {
 }
 .gadget {
   .phone {
-    width: 800px;
-    height: 965px;
+    width: 440px;
+    height: 883px;
+    margin-top: 68px;
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
@@ -90,8 +91,8 @@ const insertText = () => {
     .backGround();
     .phone-content-body {
       width: 385px;
-      height: 827px;
-      margin-top: 68px;
+      height: 832px;
+      margin-top: 25px;
       background: black;
       position: relative;
       border-radius: 30px;

@@ -7,7 +7,7 @@
     </section>
   </div>
 </template>
-
+ 
 <script setup lang="ts">
 import { ref } from 'vue'
 import StatusBar from './status-bar/index.vue'
